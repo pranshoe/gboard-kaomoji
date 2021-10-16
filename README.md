@@ -13,6 +13,6 @@ This project adds some shortcuts to kaomojis.
 - Click Import
 - Select the Zip File 
 
-(Video guide comming soon)
+(Video guide coming soon)
 
 
