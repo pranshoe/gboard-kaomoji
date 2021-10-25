@@ -5,7 +5,7 @@
 \wut	ಠ_ಠ	
 \spain	( ͡ಥ ͜ʖ ͡ಥ)	
 \outlaw	’̿’\̵͇̿̿\З=( ͠° ͟ʖ ͡°)=Ε/̵͇̿̿/’̿̿ ̿ ̿ ̿ ̿ ̿	
-\tableflip	(ノಠ益ಠ)ノ彡┻━┻	
+\tbfp2	(ノಠ益ಠ)ノ彡┻━┻	
 \hug	(っ⌒‿⌒)っ	
 \rolleyes	◔̯◔	
 \lennysad	( ͡° ʖ̯ ͡°)	
@@ -13,7 +13,12 @@
 \wannasleep	〠_〠	
 \hurts	ಥ_ಥ	
 \sniper	( ´-ω･)︻┻┳══━一	
-\glassnsiper	(⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-	
+\perosnipe	(⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-	
 \conphusion	¯\_(ツ)_/¯	
 \expless	(=_=)	
-
+\tbfp1  (┛ಠ_ಠ)┛彡┻━┻    
+\tb ┳━┳ ヽ(ಠل͜ಠ)ﾉ    
+\tball ┻━┻︵ \(°□°)/ ︵ ┻━┻
+\tbflip (╯°□°)╯︵ ┻━┻   
+\dd ↁ_ↁ 
+\unamused   (¬▂¬)   

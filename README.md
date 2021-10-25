@@ -4,7 +4,7 @@ This project adds some shortcuts to kaomojis.
 
 ### Installation
 
-- Go to [Releases](https://www.github.com/prango71/gboard-kaomoji/releases/latest) and download the source code(zip)
+- Click on Code then Download File 
 - Go to Gboard Settings
 - Dictionary
 - Personal Dictionary
