@@ -1,5 +1,5 @@
 # Gboard Dictionary version:1
-\sus	( ͠° ͟ʖ ͡°)	
+\sus1	( ͠° ͟ʖ ͡°)	
 \lenny	( ͡° ͜ʖ ͡°)	
 \blush	(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄	
 \wut	ಠ_ಠ	
@@ -16,9 +16,10 @@
 \perosnipe	(⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-	
 \conphusion	¯\_(ツ)_/¯	
 \expless	(=_=)	
-\tbfp1	(┛ಠ_ಠ)┛彡┻━┻	
-\tb	┳━┳ ヽ(ಠل͜ಠ)ﾉ	
-\tball	┻━┻︵ \(°□°)/ ︵ ┻━┻	
-\tbflip	(╯°□°)╯︵ ┻━┻	
-\dd	ↁ_ↁ	
-\unamused   (¬▂¬)	
+\tbfp1  (┛ಠ_ಠ)┛彡┻━┻    
+\tb ┳━┳ ヽ(ಠل͜ಠ)ﾉ    
+\tball ┻━┻︵ \(°□°)/ ︵ ┻━┻
+\tbflip (╯°□°)╯︵ ┻━┻    
+\dd ↁ_ↁ 
+\unamused   (¬▂¬)  
+\sus	ඞ	
